@@ -6,7 +6,7 @@ Trang web môi giới việc làm.
 
 Đây là phần back-end của trang web được xây dựng bằng ngôn ngữ PHP và framework Laravel.
 
-Trang web sử dụng hệ cơ sở dữ liệu MySql.
+Trang web sử dụng hệ cơ sở dữ liệu MySQL.
 
 Các mục lớn của trang web
   
