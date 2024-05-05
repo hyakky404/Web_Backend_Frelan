@@ -4,7 +4,7 @@ Bài tập lớn môn Chuyên đề công nghệ phần mềm
 ## Mô tả
 Trang web môi giới việc làm.
 
-Đây là phần backend của trang web được xây dựng bằng ngôn ngữ PHP và framework Laravel.
+Đây là phần back-end của trang web được xây dựng bằng ngôn ngữ PHP và framework Laravel.
 
 Các mục lớn của trang web
   
@@ -25,11 +25,10 @@ Các mục lớn của trang web
   ![image](https://github.com/ngquy02/Web_Backend_Frelan/assets/85392867/40873f72-4a85-4ba0-be73-2c07dc735d06)
   
   * Trang ứng viên
-  ![image](https://github.com/ngquy02/Web_Backend_Frelan/assets/85392867/435ae406-755c-4699-be8e-9e7f36b29833)
+  ![image](https://github.com/ngquy02/Web_Backend_Frelan/assets/85392867/9cfaacdb-2f8c-4385-a4bd-cf93372a72b6)
 
   * Trang nhà tuyển dụng
-  ![image](https://github.com/ngquy02/Web_Backend_Frelan/assets/85392867/1cbe7361-303e-458c-8c86-665cace4895a)
-
+  ![image](https://github.com/ngquy02/Web_Backend_Frelan/assets/85392867/f4c20a13-3da6-4d1f-b7f5-3cc99f2fbafd)
 
 ## Tài liệu tham khảo
 W3Schools: https://www.w3schools.com
