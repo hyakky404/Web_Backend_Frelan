@@ -1,8 +1,8 @@
 # Frelan
-Bài tập lớn môn Chuyên đề công nghệ phần mềm
+Bài tập lớn môn Chuyên đề Công nghệ phần mềm
 
 ## Mô tả
-Trang web môi giới việc làm và là bài tập lớn để đánh giá quá trình môn học.
+Trang web môi giới việc làm và là bài tập lớn để đánh giá quá trình học tập của môn học.
 
 Đây là phần back-end của trang web được xây dựng bằng công nghệ Laravel phiên bản 11 và công nghệ MySQL.
 
